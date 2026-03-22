@@ -23,10 +23,10 @@ export default function LoginPage() {
       <Card className="w-full max-w-md shadow-lg border-zinc-200/60">
         <CardHeader className="text-center space-y-2">
           <CardTitle className="text-2xl font-bold tracking-tight text-zinc-900">
-            面談振り返りポータル
+            ジョブコミット
           </CardTitle>
           <CardDescription className="text-zinc-500">
-            ご自身の面談動画をアップロードし、<br />
+            面談動画をアップロードし、<br />
             スキルアップのための振り返りを行いましょう。
           </CardDescription>
         </CardHeader>
