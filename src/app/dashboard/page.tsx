@@ -109,7 +109,7 @@ export default function Dashboard() {
         {/* ヘッダーエリア */}
         <div className="flex justify-between items-end mb-12">
           <div>
-            <h1 className="text-2xl font-bold text-zinc-900 tracking-tight">面談リフレクション</h1>
+            <h1 className="text-2xl font-bold text-zinc-900 tracking-tight">動画一覧</h1>
             <p className="text-zinc-400 text-xs font-medium uppercase tracking-widest mt-1">{user.email}</p>
           </div>
           <div className="flex items-center gap-3">
